@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<script type="text/javascript" src="./web3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
 <script type="text/javascript" src="./fetch.js"></script>
  
 <div id="text"></div>
