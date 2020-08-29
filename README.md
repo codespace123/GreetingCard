@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
-<script src="./web3.min.js"></script>
-<script src="/fetch.js"></script>
+<script type="text/javascript" src="./web3.min.js"></script>
+<script type="text/javascript" src="/fetch.js"></script>
  
 <div id="text"></div>
 
