@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 <script src="https://unpkg.com/web3@latest/dist/web3.min.js"></script>
-<script type="text/javascript" src="./fetch.js"></script>
+<script type="text/javascript" src="./fetch.js" charset="utf-8"></script>
  
 <div id="text"></div>
 
