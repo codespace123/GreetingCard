@@ -9,11 +9,9 @@ This is the first Teachers' Day that we could not express our wishes to Proferss
 The block address of our message is .... and the content of block is as follows:
 
 
-::: warning
-<script src="https://unpkg.com/web3@latest/dist/web3.min.js"></script>
-<script type="text/javascript" src="./fetch.js" charset="utf-8"></script>
-<div id="text"></div>
-::: warning
+><script src="https://unpkg.com/web3@latest/dist/web3.min.js"></script>
+><script type="text/javascript" src="./fetch.js" charset="utf-8"></script>
+><div id="text"></div>
 
 
 
