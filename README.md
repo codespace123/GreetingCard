@@ -1,11 +1,8 @@
-## Welcome to GitHub Pages
+### Happy Teacher's Day
 
 <script src="https://unpkg.com/web3@latest/dist/web3.min.js"></script>
 <script type="text/javascript" src="./fetch.js" charset="utf-8"></script>
- 
 <div id="text"></div>
-
-
 
 You can use the [editor on GitHub](https://github.com/codespace123/GreetingCard/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
