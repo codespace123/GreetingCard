@@ -13,15 +13,10 @@ The transcation hash of our message is <a href="https://etherscan.io/tx/0x5b8e2f
 
 
 <style>
-blockquote .newblock{
-  font-weight: bold;
-  font-style: italic;
-  color: #B29B35;
-}
-</style>
+
 <script src="https://unpkg.com/web3@latest/dist/web3.min.js"></script>
 <script type="text/javascript" src="./fetch.js" charset="utf-8"></script>
-<blockquote class="newblock">
+<blockquote font-weight='bold' font-style='italic' color'#B29B35'>
 <div id="text"></div>
 </blockquote>
 
