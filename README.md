@@ -12,7 +12,7 @@ The transcation hash of our message is <a href="https://etherscan.io/tx/0x5b8e2f
 
 <script src="https://unpkg.com/web3@latest/dist/web3.min.js"></script>
 <script type="text/javascript" src="./fetch.js" charset="utf-8"></script>
-<blockquote style="background: #f9f9f9; font-weight: bold; font-style: italic; color: #B29B35; margin-inline-end: 20px;">
+<blockquote style="background: #f9f9f9; padding: 0px; border-left: #B29B35; font-weight: bold; font-style: italic; color: #B29B35; margin-inline-end: 0px;">
 <div id="text"></div>
 </blockquote>
 
