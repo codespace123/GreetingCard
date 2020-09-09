@@ -16,6 +16,6 @@ The transcation hash of our message is <a href="https://etherscan.io/tx/0x5b8e2f
 <div id="text"></div>
 
 # Methodology
-* Write the byte of the message in the "input data" field of Ethereum transaction.
-* Access the Ethereum blockchain via Infura.
-* Fetch the transaction data via Java Script and transfer it from Hex to UTF-8.
+1. Write the byte of the message in the "input data" field of Ethereum transaction.
+2. Access the Ethereum blockchain via Infura.
+3. Fetch the transaction data via Java Script and transfer it from Hex to UTF-8.
