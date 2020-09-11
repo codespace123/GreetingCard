@@ -20,5 +20,5 @@ async function myFetch() {
   };
 }
 myFetch().then(function(data) {
-    console.log('all is complted', data.input);
+    console.log('Tx Hash:', data.input);
 });
